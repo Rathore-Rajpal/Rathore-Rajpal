@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Rajpal Singh Rathore
 👋 Hi, I'm Rajpal Singh Rathore!<br>🚀 Tech Enthusiast | Developer | Cybersecurity Learner.<br>💡 Passionate about building innovative tech solutions.
 
 
