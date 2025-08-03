@@ -1,5 +1,5 @@
 #  Rajpal Singh Rathore
-👋 Hi, I'm Rajpal Singh Rathore!<br>🚀 Tech Enthusiast | AI Automation Intern | GenAI Explorer<br>💡 Passionate about building intelligent automation and AI-powered solutions.
+👋 Hi, I'm Rajpal Singh Rathore!<br>🚀 Tech Enthusiast | AI Automations | GenAI<br>💡 Passionate about building intelligent automation and AI-powered solutions.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/context._.rajsaa)
@@ -23,9 +23,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Apify](https://img.shields.io/badge/apify-000000?style=for-the-badge&logo=apify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![NA10](https://img.shields.io/badge/NA10-AI-5A00A3?style=for-the-badge&logoColor=white)
+![N8n](https://img.shields.io/badge/n8n-AI-5A00A3?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rathore-Rajpal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
