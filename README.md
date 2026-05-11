@@ -276,7 +276,7 @@ Comprehensive real estate operations and deal management platform for property a
 | 🎖️ Achievement | 🏢 Issuer | 📅 Year |
 |:---|:---|:---:|
 | 🥇 **1st Place** — Project Exhibition *(Hey Buddy)* | Ness Wadia College | 2025 |
-| Full Stack Java Certification | Capgemini × Symbiosis | 2025 |
+| Full Stack Java Certification | Capgemini × Symbiosis | 2026 |
 | BBA — Computer Applications | SPPU · Ness Wadia College | 2025 |
 
 <br/>
