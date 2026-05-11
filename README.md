@@ -288,31 +288,13 @@ Comprehensive real estate operations and deal management platform for property a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rathore-Rajpal&show_icons=true&theme=dark&hide_border=true&title_color=ff4444&icon_color=ff4444&text_color=ffffff&bg_color=0d0d0d&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathore-Rajpal&layout=compact&theme=dark&hide_border=true&title_color=ff4444&text_color=ffffff&bg_color=0d0d0d" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rathore-Rajpal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathore-Rajpal&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rathore-Rajpal&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d0d0d" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rathore-Rajpal&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       CURRENTLY FOCUSED ON                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🎯 Currently Building
-
-```bash
-$ focus --list
-
-  [✓]  Production AI systems @ TaskNova
-  [→]  Python-native AI Engineering  (LangChain · LlamaIndex · FastAPI)
-  [→]  MCP Server integrations & AI Agent architectures
-  [→]  AWS Cloud infrastructure & scalable backend systems
-  [→]  JLPT N5 — Japanese Language (December 2025) 🇯🇵
-```
 
 <br/>
 
