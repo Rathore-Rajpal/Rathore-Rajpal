@@ -288,12 +288,14 @@ Comprehensive real estate operations and deal management platform for property a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rathore-Rajpal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathore-Rajpal&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/Rathore-Rajpal">
+    <img height="180em" src="https://github-readme-stats-kappa-one-60.vercel.app/api?username=Rathore-Rajpal&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-kappa-one-60.vercel.app/api/top-langs/?username=Rathore-Rajpal&layout=compact&theme=radical&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rathore-Rajpal&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rathore-Rajpal&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
